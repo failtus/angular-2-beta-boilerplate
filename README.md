@@ -10,9 +10,9 @@ Follow the following steps and you're good to go! Important: Typescript and npm 
 ```
 git clone https://github.com/failtus/angular-2-beta-boilerplate.git
 ```
-2: Cheetout randommathapp branch
+2: Git Checkout to App branch
 ```
-npm install
+git checkout randommathapp
 ```
 2: Install packages
 ```
